@@ -7,8 +7,8 @@
 * [Literature Review](#literature-review)
 * [Notebooks](#notebooks)
 
-  * [Analysis 1: Stack Overflow Participation Trends](#analysis-1-stack-overflow-participation-trends)
-  * [Analysis 2: Engagement and User Behavior Analysis](#analysis-2-engagement-and-user-behavior-analysis)
+  * [Analysis 1: Stack Overflow Participation Trends](#analysis-1.ipynb)
+  * [Analysis 2: Engagement and User Behavior Analysis](#analysis-2.ipynb)
 * [Conclusion](#conclusion)
 * [Next Steps](#next-steps)
 * [References](#references)
