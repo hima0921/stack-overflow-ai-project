@@ -19,9 +19,9 @@
 
 The rise of artificial intelligence chatbots has transformed how people search for information and solve technical problems. Platforms like ChatGPT now allow users to receive instant answers, code suggestions, and explanations without relying on traditional community-based knowledge platforms. Stack Overflow has historically served as one of the most important resources for developers seeking solutions to programming problems, hosting millions of questions and answers contributed by a global community.
 
-This project investigates how the release and adoption of large language model (LLM) based chatbots — particularly ChatGPT — may have influenced participation patterns on Stack Overflow. Specifically, the analysis explores whether the launch of ChatGPT in November 2022 coincided with measurable changes in the number of questions posted, answer rates, acceptance rates, and overall engagement on the platform. 
+This project investigates how the release and adoption of large language model (LLM) based chatbots, particularly ChatGPT, may have influenced participation patterns on Stack Overflow. Specifically, the analysis explores whether the launch of ChatGPT in November 2022 coincided with measurable changes in the number of questions posted, answer rates, acceptance rates, and overall engagement on the platform. 
 
-Using a sample dataset of Stack Overflow activity, this project examines trends before and after the release of ChatGPT to determine whether developers have shifted their behavior. In addition to question volume, this research also explores whether certain programming language tags became more or less prominent over time, and whether patterns of user participation changed — including the rate of new users joining versus returning users continuing to contribute. 
+Using a sample dataset of Stack Overflow activity, this project examines trends before and after the release of ChatGPT to determine whether developers have shifted their behavior. In addition to question volume, this research also explores whether certain programming language tags became more or less prominent over time, and whether patterns of user participation changed, including the rate of new users joining versus returning users continuing to contribute. 
 
 As AI tools become more integrated into the daily workflows of developers, understanding their influence on collaborative knowledge platforms becomes increasingly important. This project aims to provide an exploratory analysis of these changes and contribute to broader discussions about the evolving relationship between AI tools and community-driven knowledge ecosystems.
 
@@ -74,7 +74,7 @@ This notebook focuses on analyzing overall participation patterns on Stack Overf
 * Tag frequency analysis for programming languages
 
 Notebook Link:
-`[Insert GitHub or Colab link here]`
+[`[Insert GitHub or Colab link here]`](https://colab.research.google.com/drive/1HzsbP4fF3glStoMAu1NF4P-E4CBnmINZ)
 
 ---
 
@@ -88,7 +88,7 @@ This notebook explores deeper engagement patterns and user participation, includ
 * Potential correlations with AI adoption timelines
 
 Notebook Link:
-`[Insert GitHub or Colab link here]`
+[`[Insert GitHub or Colab link here]`](https://colab.research.google.com/drive/1GrIBAdgoVjUfh1apg-uqLDa_T6UFaqP6)
 
 ---
 
