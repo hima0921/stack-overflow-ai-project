@@ -74,7 +74,7 @@ This notebook focuses on analyzing overall participation patterns on Stack Overf
 * Tag frequency analysis for programming languages
 
 Notebook Link:
-[`[Insert GitHub or Colab link here]`](https://colab.research.google.com/drive/1HzsbP4fF3glStoMAu1NF4P-E4CBnmINZ)
+[`Analysis 1: Platform Level Analysis`](https://colab.research.google.com/drive/1HzsbP4fF3glStoMAu1NF4P-E4CBnmINZ)
 
 ---
 
@@ -88,7 +88,7 @@ This notebook explores deeper engagement patterns and user participation, includ
 * Potential correlations with AI adoption timelines
 
 Notebook Link:
-[`[Insert GitHub or Colab link here]`](https://colab.research.google.com/drive/1GrIBAdgoVjUfh1apg-uqLDa_T6UFaqP6)
+[`Analysis 2: Question-Level Dataset Sample`](https://colab.research.google.com/drive/1GrIBAdgoVjUfh1apg-uqLDa_T6UFaqP6)
 
 ---
 
